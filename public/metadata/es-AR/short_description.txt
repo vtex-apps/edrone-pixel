@@ -1,0 +1,3 @@
+# edrone. Plataforma CRM de comercio electrónico.
+
+La integración de Edrone basada en appId permite el seguimiento de eventos de píxeles.

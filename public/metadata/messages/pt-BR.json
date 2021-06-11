@@ -1,0 +1,13 @@
+{
+  "name": "eDrone",
+  "headline": "Integre-se com o CRM eDrone.",
+  "overview": "O primeiro eCRM exclusivo para eCommerce. A eDrone é uma ferramenta de IA para eCommerce que utiliza Data Mining e Machine Learning para identificar, cadastrar e monitorar visitantes de seu site. Os dados comportamentais gerados pela edrone alimentam o sistema de recomendações de produto por Email, Push, SMS e principalmente nossas Recomendações On-Site (Vitrine Dinâmica) que são desenhadas exclusivamente para cada cliente.",
+  "features": [
+      "Integre-se com eDrone permitindo o rastreio de eventos de pixel"
+  ],
+  "additionalInformation": "Você precisa estar registrado e fornecer um ID do app eDrone.",
+  "websiteURL": "https://vtex.com/",
+  "support": {
+    "url": "https://support.vtex.com/hc/requests"
+  }
+}

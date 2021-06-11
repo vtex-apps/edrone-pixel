@@ -1,0 +1,29 @@
+# edrone. Plataforma de e-commerce CRM.
+
+
+## Sobre
+
+edrone é uma empresa de tecnologia baseada em SaaS com tecnologia de ML e IA. Nossa missão é entregar mecanismos usados ​​por gigantes para empresas de qualquer porte. Nossa proposta de valor é aumentar as vendas e o ROI com base na tecnologia de retenção. Estamos homenageados com o primeiro prêmio na competição Best in Cloud pela revista Computerworld como o Melhor CRM 2017, 2018 e 2019, premiado pelo júri dos 100 melhores CIOs de TI da CEE. Eleito líder de TI 2018 no prêmio IT Future Awards na categoria de inovação em comércio eletrônico 2018. O edrone é utilizado por mais de 1000 clientes, em mais de 30 países, entre outros, os líderes da indústria como x-kom, Semilac ou FarmaDelivery.
+
+Os principais recursos do edrone são CRM, Voice-shopping Assistant (AVA), automação de marketing, máquina de marketing (recomendações de produtos de ML online). Os USPs de edrone são scripts de automação de marketing prontos para uso e recursos de CRM ajustados aos processos de comércio eletrônico. A plataforma permite comunicações de saída multicanal, conteúdo genérico a ser usado em e-mails, mensagens de texto, no local, anúncios e notificações push. O produto se destina a varejistas online de US $ 0,5 milhão até US $ 0,5 bilhão de receita anual. A empresa tem mais de 40 anos com HQ em PL, equipes locais em Barcelona e São Paulo.
+
+USPs e KPIs.
+
+edrone, CRM de comércio eletrônico. edrone é colocado no segmento de mar-tech. Principais características: CRM, automação de marketing, máquina de marketing (recomendações de produtos ML online). Os USP de Edrone são scripts de automação de marketing prontos para uso e recursos de CRM ajustados aos processos de comércio eletrônico. Edrone usa comunicações externas multicanal, e-mails genéricos, mensagens de texto, no local, anúncios e notificações push. Clientes de um milhão até EUR 0,5B Y de receita. 400 clientes MRR e 400K + MRR (JAN 2019). O principal mercado é PL, o segundo mercado é o Brasil com cerca de 15%. Rev em PLN. 2016: 0,4M; 2017: 1,6M; 2018: 3,5 milhões, 2019 (meta) 10 milhões. Nenhum investidor a bordo. Equipe experiente, HQ em PL, duas pessoas em Barcelona, ​​quatro pessoas em São Paulo, Preparando-se para o Mercado Nórdico e Alemão. Executamos o negócio apenas com pagamentos de clientes e fundadores. Dois fundadores (50/50 ações).
+
+A plataforma contém cenários de automação de marketing Plug'n'play que atendem às necessidades de comércio eletrônico mais procuradas. Ele também contém recursos de inteligência de cliente e CRM.
+
+Vendemos apenas B2B. Faturamos nossos clientes no início do período do plano, geralmente, uma vez que o período de avaliação foi excedido. Nossos clientes podem pagar usando o método de assinatura CC, que geralmente é uma assinatura mensal. Um cliente pode obter um desconto em sua assinatura se concordar com uma assinatura anual ou período indefinido cobrado anualmente. Em qualquer caso, o cliente deve assinar um contrato de processamento de dados devido ao GDPR. Muitos clientes pagam usando faturas e gostaríamos de usar o Stripe tanto para assinatura CC quanto para pagamentos de faturamento (para pagar uma fatura via tarja ou por transferência eletrônica). Nossos clientes estão baseados principalmente na região CEE ou da UE (75%) e o resto (25%) são de todo o mundo.
+
+
+## Funcionalidades
+
+- Integrar com edrone e rastrear eventos de pixel
+
+## Como configurar
+
+1. Instale o aplicativo da VTEX App Store;
+2. Adicione seu ID do aplicativo eDrone.
+3. Salve suas alterações.
+
+## Comentários

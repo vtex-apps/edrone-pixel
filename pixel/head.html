@@ -1,0 +1,20 @@
+<script>
+  (function() {
+    var appId = "{{settings.edroneAppId}}";
+    if (!appId) {
+      console.error('Warning: No Edrone APP ID is defined. Please configure it in the apps admin.');
+      return
+    }else {
+      (function (srcjs) {
+        window._edrone = window._edrone || {};
+        _edrone.app_id = appId;
+        var doc = document.createElement('script');
+        doc.type = 'text/javascript';
+        doc.async = true;
+        doc.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + srcjs;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(doc, s);
+      })("//d3bo67muzbfgtl.cloudfront.net/edrone_2_0.js");
+    }
+  })()
+</script>

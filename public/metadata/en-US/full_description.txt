@@ -1,0 +1,30 @@
+# edrone. e-Commerce CRM platform.
+
+
+## About
+
+edrone is a SaaS-based tech company powered with ML and AI. Our mission is to deliver mechanisms used by giants to the company of any size. Our value proposition is to increase sales and ROI based on retention technology. We're honored with the first prize in Best in Cloud competition by Computerworld Magazine as the Best CRM 2017, 2018 and 2019, rewarded by Jury of Top 100 IT CIO from CEE. Titled as IT Leader 2018 at IT Future Awards in E-commerce Innovation category  2018 award. edrone is used by over 1000 clients, in over 30 countries, among others the industry leaders like x-kom, Semilac or FarmaDelivery.
+
+The main edrone features are CRM, Voice-shopping assistant (AVA), marketing automation, marketing machine (online ML product recommendations). edrone’s USPs are ready-to-go marketing automation scripts and CRM features adjusted to eCommerce processes. The platform allows multichannel outbound communications, generic content to be used in emails, text messages, onsite, ads and push notifications. The product is meant for online retailers from $0.5M up to $0.5B in annual revenue. The company is 40+ strong with HQ in PL, local teams in Barcelona and Sao Paulo.
+
+USPs and KPIs.
+
+edrone, e-Commerce CRM. edrone is placed in mar-tech segment. Main features: CRM, marketing automation, marketing machine (online ML product recommendations). Edrone’s USP are ready-to-go marketing automation scripts and CRM features adjust to eCommerce processes. Edrone use multichannel outband communications, generic emails, text messages, onsite, ads and push notifications. Clients from one million up to EUR 0,5B Y revenue. 400 MRR clients and 400K+ MRR (JAN 2019). Main market is PL the second market is Brasil with about 15%. Rev in PLN. 2016: 0,4M; 2017: 1,6M; 2018: 3,5M, 2019 (Goal) 10M. No investor on board. Experienced team, HQ in PL, two people in Barcelona, four people in Sao Paulo, Gearing up for Nordic and German Market. We run the business only from clients payments and Founders. Two founders (50/50 shares).
+
+The platform contains Plug’n’play marketing automation scenarios which meets most wanted eCommerce needs. It also contain customer Intelligence and CRM features.
+
+We sell B2B only. We bill our clients at the beginning of the period of the plan, usually, once the trial has been exceeded. Our clients can pay using the CC subscription method which is the most often a monthly subscription. A client can get a discount on his subscription if they agree for an annual subscription or undefined period billed annually. In any case, the client has to sign a Data Processing agreement due to GDPR. Many clients pay using Invoices and we'd like to use Stripe for both CC subscription as well as Invoicing payments (to pay an invoice via stripe or pay over wire transfer). Our clients are mostly based in the CEE or EU region (75%) and the rest (25%) are from all over the world.
+
+
+## Functionalities
+
+- Integrate with edrone and track pixel events
+
+## How to set up
+
+1. Install the app from VTEX App Store;
+2. Add your eDrone App ID. 
+3. Save your changes.
+
+## Comments
+

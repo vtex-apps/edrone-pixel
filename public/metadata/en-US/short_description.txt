@@ -1,0 +1,3 @@
+# edrone. e-Commerce CRM platform.
+
+Edrone Integration based on appId, permits tracking of pixel events.
